@@ -1,0 +1,48 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="@style/Theme.AppCompat.NoActionBar">
+        <item name="android:windowFullscreen">true</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+    </style>
+
+    <style name="ButtonLogin" parent="@style/Theme.AppCompat.Light">
+        <item name="android:textColor">@color/white</item>
+        <item name="colorButtonNormal">@color/colorAccent</item>
+        <item name="colorControlHighlight">@color/yellow</item>
+    </style>
+
+    <style name="ButtonSignUp" parent="@style/Theme.AppCompat.Light">
+        <item name="android:textColor">@color/white</item>
+        <item name="colorButtonNormal">@color/colorPrimary</item>
+        <item name="colorControlHighlight">@color/yellow</item>
+    </style>
+    <style name="ButtonRegister" parent="@style/Theme.AppCompat.Light">
+        <item name="android:textColor">@android:color/black</item>
+        <item name="colorButtonNormal">@color/yellow</item>
+        <item name="colorControlHighlight">@color/colorPrimary</item>
+    </style>
+    <style name="CardView" parent="@style/Base.CardView" />
+    <style name="CardView.Dark" parent="@style/CardView">
+        <item name="cardBackgroundColor">@color/cardview_dark_background</item>
+    </style>
+    <style name="CardView.Light" parent="@style/CardView">
+        <item name="cardBackgroundColor">@color/cardview_light_background</item>
+    </style>
+    <style name="HeadTitle">
+        <item name="android:textSize">50.0dip</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:color">@color/white</item>
+    </style>
+
+    <style name="RegistrationPage">
+        <item name="android:textColorHint">@color/black</item>
+        <item name="android:editTextColor">@color/black</item>
+        <item name="android:colorControlNormal">@color/black</item>
+        <item name="android:background">@color/white</item>
+    </style>
+
+
+</resources>

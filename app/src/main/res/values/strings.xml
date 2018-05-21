@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LoginAndSignup</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="RememberMe">Remember Me</string>
+    <string name="Login">Login</string>
+    <string name="Register">Register</string>
+    <string name="Logo">Logo</string>
+    <string name="FirstName">FirstName</string>
+    <string name="LastName">LastName</string>
+    <string name="Email">Email</string>
+    <string name="ConfirmEmailAddress">Confirm Email Address</string>
+    <string name="SignUp">Sign Up</string>
+    <string name="registrationPage">Registration Page</string>
+</resources>
